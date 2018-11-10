@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F88CCD24-3A21-4221-A0CC-208D969DE314}|Default">
+  <MonoDevelop.Ide.ItemProperties.AWOS PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AWOS/Program.cs">
+    <Files>
+      <File FileName="AWOS/Program.cs" Line="15" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
